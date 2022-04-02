@@ -8,6 +8,15 @@ h1 {
     color: rgb(110, 37, 37);
 }
 
+h2 {
+    color: rgb(110, 37, 37);
+}
+
+img {
+    border: 7px double rgb(110, 37, 37);
+    border-radius: 15%;
+}
+
 ol,
 ul {
     list-style-position: inside;
