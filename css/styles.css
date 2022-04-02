@@ -4,14 +4,19 @@
     font-family: Verdana, sans-serif;
 }
 
-ul.no-bullets {
+h1 {
+    color: rgb(110, 37, 37);
+}
+
+ol,
+ul {
+    list-style-position: inside;
+}
+
+.no-bullets {
     list-style-type: none;
     padding: 0;
     margin: 0;
-  }
-
-h1 {
-    color: rgb(110, 37, 37);
 }
 
 .top-image {
